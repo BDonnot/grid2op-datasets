@@ -1,22 +1,22 @@
 {
 "rte_case14_redisp": {
-    "base_url": "https://l2rpn.s3.amazonaws/",
+    "base_url": "https://l2rpn.s3.amazonaws.com/",
     "filename": "rte_case14_redisp.tar.bz2"
   },
 "l2rpn_case14_sandbox": {
-    "base_url": "https://l2rpn.s3.amazonaws/",
+    "base_url": "https://l2rpn.s3.amazonaws.com/",
     "filename": "l2rpn_case14_sandbox.tar.bz2"
   },
 "l2rpn_2019": {
-    "base_url": "https://l2rpn.s3.amazonaws/",
+    "base_url": "https://l2rpn.s3.amazonaws.com/",
     "filename": "l2rpn_2019.tar.bz2"
   },
 "rte_case14_realistic": {
-    "base_url": "https://l2rpn.s3.amazonaws/",
+    "base_url": "https://l2rpn.s3.amazonaws.com/",
     "filename": "rte_case14_realistic.tar.bz2"
   },  
 "wcci_test": {
-    "base_url": "https://l2rpn.s3.amazonaws/",
+    "base_url": "https://l2rpn.s3.amazonaws.com/",
     "filename": "ieee118_r2subgrid_wcci_v1.tar.bz2"
   }
 }
