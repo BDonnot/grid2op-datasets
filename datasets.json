@@ -18,5 +18,9 @@
 "wcci_test": {
     "base_url": "https://l2rpn.s3.amazonaws.com/",
     "filename": "ieee118_r2subgrid_wcci_v1.tar.bz2"
+  },  
+"l2rpn_wcci_2020": {
+    "base_url": "https://l2rpn.s3.amazonaws.com/",
+    "filename": "l2rpn_wcci_2020.tar.bz2"
   }
 }
