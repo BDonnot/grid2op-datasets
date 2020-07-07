@@ -24,19 +24,19 @@
     "filename": "l2rpn_wcci_2020.tar.bz2"
   },  
 "l2rpn_neurips_2020_track1_large": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/ ",
+    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
     "filename": "l2rpn_neurips_2020_track1_large.tar.bz2"
   },  
 "l2rpn_neurips_2020_track1_small": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/ ",
+    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
     "filename": "l2rpn_neurips_2020_track1_small.tar.bz2"
   },  
 "l2rpn_neurips_2020_track2_large": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/ ",
+    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
     "filename": "l2rpn_neurips_2020_track2_large.tar.bz2"
   },  
 "l2rpn_neurips_2020_track2_small": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/ ",
+    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
     "filename": "l2rpn_neurips_2020_track2_small.tar.bz2"
   }
 }
