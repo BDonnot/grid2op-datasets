@@ -38,5 +38,13 @@
 "l2rpn_neurips_2020_track2_small": {
     "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
     "filename": "l2rpn_neurips_2020_track2_small.tar.bz2"
+  },
+ "l2rpn_icaps_2021_small": {
+    "base_url": "https://l2rpndata.blob.core.windows.net/l2rpndata/",
+    "filename": "l2rpn_icaps_2021_small.zip"
+  },
+ "l2rpn_icaps_2021_large": {
+    "base_url": "https://l2rpndata.blob.core.windows.net/l2rpndata/",
+    "filename": "l2rpn_icaps_2021_large.zip"
   }
 }
