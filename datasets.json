@@ -41,10 +41,10 @@
   },
 "l2rpn_icaps_2021_large": {
     "base_url": "https://l2rpndata.blob.core.windows.net/l2rpndata/",
-    "filename": "l2rpn_icaps_2021_large.zip"
+    "filename": "l2rpn_icaps_2021_large.tar.bz2"
   },
 "l2rpn_icaps_2021_small": {
     "base_url": "https://l2rpndata.blob.core.windows.net/l2rpndata/",
-    "filename": "l2rpn_icaps_2021_small.zip"
+    "filename": "l2rpn_icaps_2021_small.tar.bz2"
   }
 }
