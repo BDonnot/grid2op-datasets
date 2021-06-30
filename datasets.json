@@ -42,5 +42,10 @@
 "l2rpn_icaps_2021_large": {
     "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpncompdata/",
     "filename": "l2rpn_icaps_2021_large.tar.bz2"
+  },
+ ,
+"l2rpn_icaps_2021_small": {
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpncompdata/",
+    "filename": "l2rpn_icaps_2021_small.tar.bz2"
   }
 }
