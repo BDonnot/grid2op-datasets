@@ -1,42 +1,42 @@
 {
 "rte_case14_redisp": {
-    "base_url": "https://l2rpn.s3.amazonaws.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "rte_case14_redisp.tar.bz2"
   },
 "l2rpn_case14_sandbox": {
-    "base_url": "https://l2rpn.s3.amazonaws.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "l2rpn_case14_sandbox.tar.bz2"
   },
 "l2rpn_2019": {
-    "base_url": "https://l2rpn.s3.amazonaws.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "l2rpn_2019.tar.bz2"
   },
 "rte_case14_realistic": {
-    "base_url": "https://l2rpn.s3.amazonaws.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "rte_case14_realistic.tar.bz2"
   },  
 "wcci_test": {
-    "base_url": "https://l2rpn.s3.amazonaws.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "ieee118_r2subgrid_wcci_v1.tar.bz2"
   },  
 "l2rpn_wcci_2020": {
-    "base_url": "https://l2rpn.s3.amazonaws.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "l2rpn_wcci_2020.tar.bz2"
   },  
 "l2rpn_neurips_2020_track1_large": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "l2rpn_neurips_2020_track1_large.tar.bz2"
   },  
 "l2rpn_neurips_2020_track1_small": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "l2rpn_neurips_2020_track1_small.tar.bz2"
   },  
 "l2rpn_neurips_2020_track2_large": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "l2rpn_neurips_2020_track2_large.tar.bz2"
   },  
 "l2rpn_neurips_2020_track2_small": {
-    "base_url": "https://rteia.sgp1.cdn.digitaloceanspaces.com/",
+    "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpnarchive/",
     "filename": "l2rpn_neurips_2020_track2_small.tar.bz2"
   },
 "l2rpn_icaps_2021_small": {
