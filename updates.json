@@ -34,5 +34,12 @@
 			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
 			"filename": "l2rpn_neurips_2020_track2_difficulty_levels.json"
 		}
+	},
+	"rte_case14_redisp": {
+		"grid.json":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "rte_case14_redisp_grid.json"
+		}
 	}
 }
