@@ -87,5 +87,12 @@
 			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
 			"filename": "l2rpn_icaps_2021_small_grid.json"
 		}
+	},
+	"l2rpn_icaps_2021_large": {
+		"grid.json":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "l2rpn_icaps_2021_small_grid.json"
+		}
 	}
 }
