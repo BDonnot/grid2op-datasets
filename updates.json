@@ -1,6 +1,14 @@
 {
-	"l2rpn_wcci_2020": {"config.py": {"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
-		"filename": "l2rpn_wcci_2020_config.py"}
+	"l2rpn_wcci_2020": {
+	        "config.py": {
+	        	"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "l2rpn_wcci_2020_config.py"
+		},
+		"grid.json":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "l2rpn_wcci_2020_grid.json"
+		}
 	},
 	"l2rpn_neurips_2020_track2_small": {
 		"config.py":
