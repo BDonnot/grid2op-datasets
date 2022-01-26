@@ -48,5 +48,12 @@
 			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
 			"filename": "l2rpn_case14_sandbox_grid.json"
 		}
+	},
+	"l2rpn_2019": {
+		"grid.json":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "l2rpn_2019_grid.json"
+		}
 	}
 }
