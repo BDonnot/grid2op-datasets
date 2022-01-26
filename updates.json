@@ -55,5 +55,12 @@
 			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
 			"filename": "l2rpn_2019_grid.json"
 		}
+	},
+	"rte_case14_realistic": {
+		"grid.json":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "rte_case14_realistic_grid.json"
+		}
 	}
 }
