@@ -52,6 +52,11 @@
 		}
 	},
 	"l2rpn_neurips_2020_track1_small": {
+		"config.py":
+			{
+				"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+				"filename": "l2rpn_neurips_2020_track1_config.py"
+			},
 		"difficulty_levels.json":
 		{
 			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
