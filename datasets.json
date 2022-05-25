@@ -47,5 +47,9 @@
 "l2rpn_icaps_2021_large": {
     "base_url": "https://l2rpnukstorageprem.blob.core.windows.net/l2rpncompdata/",
     "filename": "l2rpn_icaps_2021_large.tar.bz2"
-  }
+  },
+"l2rpn_wcci_2022": {
+      "base_url": "https://codalab.lisn.upsaclay.fr/my/datasets/download/",
+      "filename": "16cfa401-d5f7-429c-be6f-699f80e2b63d"
+    }
 }
