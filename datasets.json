@@ -51,5 +51,9 @@
 "l2rpn_wcci_2022": {
       "base_url": "https://codalab.lisn.upsaclay.fr/my/datasets/download/",
       "filename": "a822a879-31a4-4634-a66a-eb851ec369c9"
+    },
+"l2rpn_idf_2023": {
+      "base_url": "https://codalab.lisn.upsaclay.fr/my/datasets/download/",
+      "filename": "073fb805-76e5-423d-97e3-83a62a7ac0d0"
     }
 }
