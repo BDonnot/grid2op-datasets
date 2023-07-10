@@ -134,5 +134,17 @@
 			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
 			"filename": "l2rpn_icaps_2021_small_grid.json"
 		}
+	},
+	"l2rpn_idf_2023": {
+		"difficulty_levels.json":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "l2rpn_idf_2023_difficulty_levels.json"
+		},
+		"alerts_info.json":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "l2rpn_idf_2023_alerts_info.json"
+		}
 	}
 }
