@@ -145,6 +145,11 @@
 		{
 			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
 			"filename": "l2rpn_idf_2023_alerts_info.json"
+		},
+		"config.py":
+		{
+			"base_url": "https://api.github.com/repos/bdonnot/grid2op-datasets/contents/updates/",
+			"filename": "l2rpn_idf_2023_config.py"
 		}
 	}
 }
